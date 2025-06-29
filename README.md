@@ -1,1 +1,1 @@
-# Kullan-c-Kontrol
+# Kullanıcı Kontrol
